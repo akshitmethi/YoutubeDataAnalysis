@@ -1,0 +1,8 @@
+google :
+  api :
+    list : https://youtube.googleapis.com/youtube/v3/search
+    video : https://youtube.googleapis.com/youtube/v3/videos
+    authKey: AIzaSyAhv3Ssr7tu6v3W0qjcR39IrXI4fhw6TZQ
+
+sampleSize : 300
+    
