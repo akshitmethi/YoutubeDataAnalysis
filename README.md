@@ -1,4 +1,4 @@
-# Aviyel | Youtube video details analyser
+# Youtube video details analyser
 Steps to run this project <br>
 
 <ol><li>Please set the AuthKey which you can fetch from google developer console and paste it in the src/config.yml file.</li>
